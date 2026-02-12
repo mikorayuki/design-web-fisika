@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Fisikaman - Fisika Tanpa Batas</title>
+    <meta name="description" content="Platform belajar fisika interaktif dengan simulasi modern. Belajar konversi suhu, hukum Newton, dan materi fisika lainnya dengan mudah di Fisikaman.">
+    <meta name="keywords" content="fisika, belajar fisika, rumus fisika, soal fisika, fisikaman, mikorayuki">
+    <meta name="author" content="Mikorayuki">
+    <meta name="robots" content="index, follow">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fisikaman.my.id/">
+    <meta property="og:title" content="Fisikaman - Belajar Fisika Jadi Seru">
+    <meta property="og:description" content="Coba simulasi fisika interaktif dan kuis seru di sini.">
+    <meta property="og:image" content="https://fisikaman.my.id/logo.webp"> <link rel="icon" type="image/webp" href="logo.webp">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="liquid-bg">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <nav>
+        <a href="#" id="site-logo" class="logo">
+            <img src="logo.webp" alt="Fisikaman Logo" style="height: 40px;">
+        </a>
+    </nav>
+
+    <div class="container hero-section">
+        <h1 id="welcome-title" class="hero-anim">Fisika Tanpa Batas</h1>
+        <p id="welcome-desc" class="hero-anim">
+            Eksplorasi materi fisika dengan antarmuka modern.
+        </p>
+    </div>
+
+    <div class="container">
+        
+        <section>
+            <h2 class="section-title">⚡ Laboratorium</h2>
+            <div class="grid-container">
+                
+                <div class="card">
+                    <h3>🌡️ Konversi Suhu</h3>
+                    <p class="card-desc">Ubah Celcius ke Kelvin secara instan.</p>
+                    <input type="number" id="temp-input" placeholder="Masukkan °C">
+                    <button onclick="convertTemp()">Hitung</button>
+                    <div id="temp-result" class="result-box"></div>
+                </div>
+
+                <div class="card">
+                    <h3>🌌 Fakta Fisika</h3>
+                    <p class="card-desc">Cahaya matahari butuh waktu 8 menit 20 detik untuk sampai ke Bumi.</p>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="section-title">🧠 Tantangan Fisika</h2>
+            <div class="card quiz-card">
+                <div id="quiz-wrapper">
+                    <p>Memuat kuis...</p>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Fisikaman.</p>
+        <p>Design by <a href="https://mikorayuki.my.id">Mikorayuki</a></p>
+    </footer>
+
+    <script src="animasi.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

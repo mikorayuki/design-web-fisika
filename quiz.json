@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "q": "Hukum I Newton sering disebut juga sebagai hukum...",
+    "a": ["Aksi-Reaksi", "Kelembaman (Inersia)", "Kekekalan Energi", "Gravitasi"],
+    "c": 1
+  },
+  {
+    "id": 2,
+    "q": "Besaran yang memiliki nilai dan arah disebut...",
+    "a": ["Besaran Skalar", "Besaran Pokok", "Besaran Vektor", "Besaran Turunan"],
+    "c": 2
+  },
+  {
+    "id": 3,
+    "q": "Rumus E = mc² dipopulerkan oleh...",
+    "a": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Thomas Edison"],
+    "c": 2
+  },
+  {
+    "id": 4,
+    "q": "Satuan SI untuk daya listrik adalah...",
+    "a": ["Joule", "Watt", "Volt", "Ampere"],
+    "c": 1
+  }
+]
