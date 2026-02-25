@@ -1,26 +1,112 @@
 [
   {
     "id": 1,
-    "q": "Hukum I Newton sering disebut juga sebagai hukum...",
-    "a": ["Aksi-Reaksi", "Kelembaman (Inersia)", "Kekekalan Energi", "Gravitasi"],
-    "c": 1
+    "q": "Saat kamu menendang bola dengan keras, kakimu terkadang terasa sakit. Peristiwa ini paling tepat dijelaskan menggunakan prinsip...",
+    "a": [
+      "Hukum I Newton",
+      "Hukum II Newton",
+      "Hukum III Newton",
+      "Hukum Gravitasi Universal"
+    ],
+    "c": 2
   },
   {
     "id": 2,
-    "q": "Besaran yang memiliki nilai dan arah disebut...",
-    "a": ["Besaran Skalar", "Besaran Pokok", "Besaran Vektor", "Besaran Turunan"],
-    "c": 2
+    "q": "Di antara kelompok besaran fisika berikut ini, manakah yang ketiganya merupakan besaran vektor?",
+    "a": [
+      "Jarak, kecepatan, percepatan",
+      "Perpindahan, kecepatan, gaya",
+      "Massa, waktu, gaya",
+      "Kelajuan, momentum, suhu"
+    ],
+    "c": 1
   },
   {
     "id": 3,
-    "q": "Rumus E = mc² dipopulerkan oleh...",
-    "a": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Thomas Edison"],
-    "c": 2
+    "q": "Sebuah benda bermassa 2 kg diangkat setinggi 3 meter dari permukaan tanah. Jika percepatan gravitasi bumi dianggap 10 m/s², berapakah energi potensial gravitasi yang dimiliki benda tersebut?",
+    "a": [
+      "6 Joule",
+      "20 Joule",
+      "30 Joule",
+      "60 Joule"
+    ],
+    "c": 3
   },
   {
     "id": 4,
-    "q": "Satuan SI untuk daya listrik adalah...",
-    "a": ["Joule", "Watt", "Volt", "Ampere"],
+    "q": "Proses perpindahan energi panas (kalor) yang terjadi pada suatu zat padat tanpa disertai perpindahan partikel-partikel zat tersebut dinamakan...",
+    "a": [
+      "Konduksi",
+      "Konveksi",
+      "Radiasi",
+      "Evaporasi"
+    ],
+    "c": 0
+  },
+  {
+    "id": 5,
+    "q": "Peristiwa pembelokan arah rambat cahaya ketika melewati batas antara dua medium yang berbeda kerapatan optiknya disebut...",
+    "a": [
+      "Refleksi",
+      "Refraksi",
+      "Difraksi",
+      "Interferensi"
+    ],
     "c": 1
+  },
+  {
+    "id": 6,
+    "q": "Sebuah mobil bergerak lurus dari keadaan diam. Jika mobil tersebut mengalami percepatan konstan sebesar 2 m/s², berapakah jarak yang ditempuhnya setelah 5 detik?",
+    "a": [
+      "10 meter",
+      "15 meter",
+      "25 meter",
+      "50 meter"
+    ],
+    "c": 2
+  },
+  {
+    "id": 7,
+    "q": "Gaya angkat (lift force) yang bekerja pada sayap pesawat terbang sehingga memungkinkannya mengudara dapat dijelaskan secara prinsip menggunakan...",
+    "a": [
+      "Hukum Archimedes",
+      "Hukum Pascal",
+      "Asas Bernoulli",
+      "Hukum Boyle"
+    ],
+    "c": 2
+  },
+  {
+    "id": 8,
+    "q": "Jika sebuah lampu pijar dengan spesifikasi 220V/100W dipasang secara keliru pada sumber tegangan 110V, maka daya aktual yang diserap oleh lampu tersebut menjadi...",
+    "a": [
+      "100 Watt",
+      "50 Watt",
+      "25 Watt",
+      "12.5 Watt"
+    ],
+    "c": 2
+  },
+  {
+    "id": 9,
+    "q": "Alat elektronika yang berfungsi utama mengubah energi mekanik (gerakan) menjadi energi listrik melalui prinsip induksi elektromagnetik dinamakan...",
+    "a": [
+      "Motor listrik",
+      "Transformator",
+      "Generator",
+      "Adaptor"
+    ],
+    "c": 2
+  },
+  {
+    "id": 10,
+    "q": "Menurut teori relativitas khusus Albert Einstein, manakah pernyataan di bawah ini yang paling tepat mengenai kecepatan cahaya?",
+    "a": [
+      "Berubah bergantung pada arah gerak sumber",
+      "Dapat melebihi kecepatan cahaya jika pengamat mendekat",
+      "Selalu konstan untuk semua pengamat inersial",
+      "Akan melambat jika berada di medan gravitasi lemah"
+    ],
+    "c": 2
   }
 ]
