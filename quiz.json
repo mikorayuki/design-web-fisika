@@ -1,112 +1,112 @@
 [
   {
     "id": 1,
-    "q": "Saat kamu menendang bola dengan keras, kakimu terkadang terasa sakit. Peristiwa ini paling tepat dijelaskan menggunakan prinsip...",
+    "q": "Air bermassa 200 gram bersuhu 20°C dicampur dengan 100 gram air bersuhu 80°C. Jika kalor jenis air sama dan wadah diabaikan, maka suhu akhir campurannya adalah...",
     "a": [
-      "Hukum I Newton",
-      "Hukum II Newton",
-      "Hukum III Newton",
-      "Hukum Gravitasi Universal"
+      "30°C",
+      "40°C",
+      "50°C",
+      "60°C"
+    ],
+    "c": 1
+  },
+  {
+    "id": 2,
+    "q": "Berdasarkan efek Doppler, frekuensi bunyi sirene ambulans yang sedang bergerak mendekati pendengar yang diam di pinggir jalan akan terdengar...",
+    "a": [
+      "Lebih rendah dari frekuensi aslinya",
+      "Sama persis dengan frekuensi aslinya",
+      "Lebih tinggi dari frekuensi aslinya",
+      "Terkadang tinggi dan terkadang rendah"
     ],
     "c": 2
   },
   {
-    "id": 2,
-    "q": "Di antara kelompok besaran fisika berikut ini, manakah yang ketiganya merupakan besaran vektor?",
+    "id": 3,
+    "q": "Berdasarkan Hukum Coulomb, jika jarak antara dua muatan listrik diperbesar menjadi dua kali lipat dari jarak semula, maka gaya tarik atau tolak antara keduanya menjadi...",
     "a": [
-      "Jarak, kecepatan, percepatan",
-      "Perpindahan, kecepatan, gaya",
-      "Massa, waktu, gaya",
-      "Kelajuan, momentum, suhu"
+      "Dua kali lebih besar",
+      "Setengah dari semula",
+      "Seperempat dari semula",
+      "Empat kali lebih besar"
     ],
-    "c": 1
+    "c": 2
   },
   {
-    "id": 3,
-    "q": "Sebuah benda bermassa 2 kg diangkat setinggi 3 meter dari permukaan tanah. Jika percepatan gravitasi bumi dianggap 10 m/s², berapakah energi potensial gravitasi yang dimiliki benda tersebut?",
+    "id": 4,
+    "q": "Berapakah tekanan hidrostatis yang dialami oleh seorang penyelam yang berada di kedalaman 10 meter di bawah permukaan air laut? (Anggap massa jenis air laut 1000 kg/m³ dan g = 10 m/s²)",
     "a": [
-      "6 Joule",
-      "20 Joule",
-      "30 Joule",
-      "60 Joule"
+      "10.000 Pa",
+      "50.000 Pa",
+      "100.000 Pa",
+      "200.000 Pa"
+    ],
+    "c": 2
+  },
+  {
+    "id": 5,
+    "q": "Pada gerak parabola, karakteristik komponen kecepatan benda pada saat benda mencapai titik tertinggi (puncak) adalah...",
+    "a": [
+      "Nol pada sumbu x dan sumbu y",
+      "Maksimum pada sumbu x, nol pada sumbu y",
+      "Nol pada sumbu x, maksimum pada sumbu y",
+      "Konstan pada sumbu x, nol pada sumbu y"
     ],
     "c": 3
   },
   {
-    "id": 4,
-    "q": "Proses perpindahan energi panas (kalor) yang terjadi pada suatu zat padat tanpa disertai perpindahan partikel-partikel zat tersebut dinamakan...",
-    "a": [
-      "Konduksi",
-      "Konveksi",
-      "Radiasi",
-      "Evaporasi"
-    ],
-    "c": 0
-  },
-  {
-    "id": 5,
-    "q": "Peristiwa pembelokan arah rambat cahaya ketika melewati batas antara dua medium yang berbeda kerapatan optiknya disebut...",
-    "a": [
-      "Refleksi",
-      "Refraksi",
-      "Difraksi",
-      "Interferensi"
-    ],
-    "c": 1
-  },
-  {
     "id": 6,
-    "q": "Sebuah mobil bergerak lurus dari keadaan diam. Jika mobil tersebut mengalami percepatan konstan sebesar 2 m/s², berapakah jarak yang ditempuhnya setelah 5 detik?",
+    "q": "Jika sebuah benda nyata diletakkan di depan cermin cembung (seperti pada kaca spion kendaraan), sifat bayangan yang selalu terbentuk adalah...",
     "a": [
-      "10 meter",
-      "15 meter",
-      "25 meter",
-      "50 meter"
+      "Nyata, terbalik, diperkecil",
+      "Maya, tegak, diperbesar",
+      "Maya, tegak, diperkecil",
+      "Nyata, tegak, sama besar"
     ],
     "c": 2
   },
   {
     "id": 7,
-    "q": "Gaya angkat (lift force) yang bekerja pada sayap pesawat terbang sehingga memungkinkannya mengudara dapat dijelaskan secara prinsip menggunakan...",
+    "q": "Besaran yang menyatakan ukuran kelembaman suatu benda untuk berotasi terhadap porosnya (sumbu putarnya) disebut...",
     "a": [
-      "Hukum Archimedes",
-      "Hukum Pascal",
-      "Asas Bernoulli",
-      "Hukum Boyle"
+      "Torsi (Momen gaya)",
+      "Momen inersia",
+      "Momentum sudut",
+      "Gaya sentripetal"
     ],
-    "c": 2
+    "c": 1
   },
   {
     "id": 8,
-    "q": "Jika sebuah lampu pijar dengan spesifikasi 220V/100W dipasang secara keliru pada sumber tegangan 110V, maka daya aktual yang diserap oleh lampu tersebut menjadi...",
+    "q": "Peristiwa terlepasnya elektron dari permukaan suatu logam ketika logam tersebut disinari oleh cahaya atau gelombang elektromagnetik dengan frekuensi tertentu dinamakan...",
     "a": [
-      "100 Watt",
-      "50 Watt",
-      "25 Watt",
-      "12.5 Watt"
+      "Efek Compton",
+      "Efek Fotolistrik",
+      "Radiasi Benda Hitam",
+      "Produksi Pasangan"
     ],
-    "c": 2
+    "c": 1
   },
   {
     "id": 9,
-    "q": "Alat elektronika yang berfungsi utama mengubah energi mekanik (gerakan) menjadi energi listrik melalui prinsip induksi elektromagnetik dinamakan...",
+    "q": "Menurut Teorema Usaha-Energi, besarnya usaha total yang dilakukan oleh resultan gaya pada sebuah benda akan sama dengan besarnya perubahan...",
     "a": [
-      "Motor listrik",
-      "Transformator",
-      "Generator",
-      "Adaptor"
+      "Energi potensial benda tersebut",
+      "Energi kinetik benda tersebut",
+      "Momentum benda tersebut",
+      "Suhu benda tersebut"
     ],
-    "c": 2
+    "c": 1
   },
   {
     "id": 10,
-    "q": "Menurut teori relativitas khusus Albert Einstein, manakah pernyataan di bawah ini yang paling tepat mengenai kecepatan cahaya?",
+    "q": "Arah gaya Lorentz yang bekerja pada sebuah kawat lurus berarus listrik yang berada di dalam medan magnet homogen dapat ditentukan dengan mudah menggunakan...",
     "a": [
-      "Berubah bergantung pada arah gerak sumber",
-      "Dapat melebihi kecepatan cahaya jika pengamat mendekat",
-      "Selalu konstan untuk semua pengamat inersial",
-      "Akan melambat jika berada di medan gravitasi lemah"
+      "Kaidah tangan kanan",
+      "Hukum Lenz",
+      "Hukum Faraday",
+      "Hukum Kirchhoff"
     ],
-    "c": 2
+    "c": 0
   }
 ]
