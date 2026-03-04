@@ -52,7 +52,7 @@
 
 ## 🚀 Tentang Proyek
 
-**Fisikaman** adalah portal edukasi fisika berbasis web yang dirancang untuk membuat belajar fisika menjadi pengalaman yang visual dan interaktif. Tidak seperti website edukasi kaku pada umumnya, Fisikaman menggunakan pendekatan desain **"Liquid Glass Morphism"** yang futuristik.
+**Fisikaman** adalah portal web edukasi fisika berbasis web yang dirancang untuk membuat belajar fisika menjadi pengalaman yang visual dan interaktif. Tidak seperti website edukasi kaku pada umumnya, Fisikaman menggunakan pendekatan desain **"Liquid Glass Morphism"** yang futuristik.
 
 ### ✨ Fitur Utama
 * **🎨 Liquid Glass UI:** Desain antarmuka transparan dengan animasi *blob* latar belakang yang hidup dan *smooth*.
