@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     initParallaxEffect();
 });
 
-// 1. Reveal Elements on Scroll
 function initScrollAnimation() {
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
@@ -20,7 +19,6 @@ function initScrollAnimation() {
     heroTexts.forEach(el => observer.observe(el));
 }
 
-// 2. Mouse Parallax Effect pada Blobs (Background bergerak mengikuti mouse)
 function initParallaxEffect() {
     document.addEventListener('mousemove', (e) => {
         const x = e.clientX / window.innerWidth;
@@ -29,7 +27,7 @@ function initParallaxEffect() {
         const blob1 = document.querySelector('.blob-1');
         const blob2 = document.querySelector('.blob-2');
 
-        if(blob1 && blob2) {
+        if (blob1 && blob2) {
             blob1.style.transform = `translate(${x * 30}px, ${y * 30}px)`;
             blob2.style.transform = `translate(-${x * 30}px, -${y * 30}px)`;
         }
